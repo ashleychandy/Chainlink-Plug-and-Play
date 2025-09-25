@@ -41,8 +41,6 @@ A modular toolkit for deploying smart contracts with optional Chainlink services
 - 🔄 Automatic retries and error handling
 
 ## Project Structure 📁
-
-\`\`\`
 .
 ├── deploy/
 │ ├── config/ # Configuration files
@@ -59,7 +57,6 @@ A modular toolkit for deploying smart contracts with optional Chainlink services
 │ │ ├── automation.js # Automation module
 │ │ └── functions.js # Functions module
 │ └── deploy.js # Main deployment script
-\`\`\`
 
 ## Setup 🚀
 
